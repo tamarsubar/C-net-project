@@ -1,0 +1,106 @@
+M:\שנה ב\C# .net\project\Solution\bin\DalFacade.deps.json
+M:\שנה ב\C# .net\project\Solution\bin\DalFacade.dll
+M:\שנה ב\C# .net\project\Solution\bin\DalFacade.pdb
+M:\שנה ב\C# .net\project\Solution\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+M:\שנה ב\C# .net\project\Solution\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+M:\שנה ב\C# .net\project\Solution\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+M:\שנה ב\C# .net\project\Solution\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+M:\שנה ב\C# .net\project\Solution\DalFacade\obj\Debug\DalFacade.dll
+M:\שנה ב\C# .net\project\Solution\DalFacade\obj\Debug\refint\DalFacade.dll
+M:\שנה ב\C# .net\project\Solution\DalFacade\obj\Debug\DalFacade.pdb
+M:\שנה ב\C# .net\project\Solution\DalFacade\obj\Debug\ref\DalFacade.dll
+M:\שנה ב\C# .net\project\Solution\DalFacade\obj\Debug\DalFacade.sourcelink.json
+M:\שנה ב\C# .net\New folder\project\Solution\bin\DalFacade.deps.json
+M:\שנה ב\C# .net\New folder\project\Solution\bin\DalFacade.dll
+M:\שנה ב\C# .net\New folder\project\Solution\bin\DalFacade.pdb
+M:\שנה ב\C# .net\New folder\project\Solution\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+M:\שנה ב\C# .net\New folder\project\Solution\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+M:\שנה ב\C# .net\New folder\project\Solution\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+M:\שנה ב\C# .net\New folder\project\Solution\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+M:\שנה ב\C# .net\New folder\project\Solution\DalFacade\obj\Debug\DalFacade.sourcelink.json
+M:\שנה ב\C# .net\New folder\project\Solution\DalFacade\obj\Debug\DalFacade.dll
+M:\שנה ב\C# .net\New folder\project\Solution\DalFacade\obj\Debug\refint\DalFacade.dll
+M:\שנה ב\C# .net\New folder\project\Solution\DalFacade\obj\Debug\DalFacade.pdb
+M:\שנה ב\C# .net\New folder\project\Solution\DalFacade\obj\Debug\ref\DalFacade.dll
+E:\שנה ב\C#.NET\project\Solution\bin\DalFacade.deps.json
+E:\שנה ב\C#.NET\project\Solution\bin\DalFacade.dll
+E:\שנה ב\C#.NET\project\Solution\bin\DalFacade.pdb
+E:\שנה ב\C#.NET\project\Solution\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+E:\שנה ב\C#.NET\project\Solution\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+E:\שנה ב\C#.NET\project\Solution\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+E:\שנה ב\C#.NET\project\Solution\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+E:\שנה ב\C#.NET\project\Solution\DalFacade\obj\Debug\DalFacade.sourcelink.json
+E:\שנה ב\C#.NET\project\Solution\DalFacade\obj\Debug\DalFacade.dll
+E:\שנה ב\C#.NET\project\Solution\DalFacade\obj\Debug\refint\DalFacade.dll
+E:\שנה ב\C#.NET\project\Solution\DalFacade\obj\Debug\DalFacade.pdb
+E:\שנה ב\C#.NET\project\Solution\DalFacade\obj\Debug\ref\DalFacade.dll
+C:\Users\אלישבע\Downloads\jm_1ir0hcFBz0SyE30\project\Solution\bin\DalFacade.deps.json
+C:\Users\אלישבע\Downloads\jm_1ir0hcFBz0SyE30\project\Solution\bin\DalFacade.dll
+C:\Users\אלישבע\Downloads\jm_1ir0hcFBz0SyE30\project\Solution\bin\DalFacade.pdb
+C:\Users\אלישבע\Downloads\jm_1ir0hcFBz0SyE30\project\Solution\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אלישבע\Downloads\jm_1ir0hcFBz0SyE30\project\Solution\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\Users\אלישבע\Downloads\jm_1ir0hcFBz0SyE30\project\Solution\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\Users\אלישבע\Downloads\jm_1ir0hcFBz0SyE30\project\Solution\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\אלישבע\Downloads\jm_1ir0hcFBz0SyE30\project\Solution\DalFacade\obj\Debug\DalFacade.dll
+C:\Users\אלישבע\Downloads\jm_1ir0hcFBz0SyE30\project\Solution\DalFacade\obj\Debug\refint\DalFacade.dll
+C:\Users\אלישבע\Downloads\jm_1ir0hcFBz0SyE30\project\Solution\DalFacade\obj\Debug\DalFacade.pdb
+C:\Users\אלישבע\Downloads\jm_1ir0hcFBz0SyE30\project\Solution\DalFacade\obj\Debug\ref\DalFacade.dll
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\jm_PQluAMW_eEu0Pm-\project\Solution\bin\DalFacade.deps.json
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\jm_PQluAMW_eEu0Pm-\project\Solution\bin\DalFacade.dll
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\jm_PQluAMW_eEu0Pm-\project\Solution\bin\DalFacade.pdb
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\jm_PQluAMW_eEu0Pm-\project\Solution\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\jm_PQluAMW_eEu0Pm-\project\Solution\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\jm_PQluAMW_eEu0Pm-\project\Solution\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\jm_PQluAMW_eEu0Pm-\project\Solution\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\jm_PQluAMW_eEu0Pm-\project\Solution\DalFacade\obj\Debug\DalFacade.dll
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\jm_PQluAMW_eEu0Pm-\project\Solution\DalFacade\obj\Debug\refint\DalFacade.dll
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\jm_PQluAMW_eEu0Pm-\project\Solution\DalFacade\obj\Debug\DalFacade.pdb
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\jm_PQluAMW_eEu0Pm-\project\Solution\DalFacade\obj\Debug\ref\DalFacade.dll
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\bin\DalFacade.deps.json
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\bin\DalFacade.dll
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\bin\DalFacade.pdb
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalFacade\obj\Debug\DalFacade.sourcelink.json
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalFacade\obj\Debug\DalFacade.dll
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalFacade\obj\Debug\refint\DalFacade.dll
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalFacade\obj\Debug\DalFacade.pdb
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalFacade\obj\Debug\ref\DalFacade.dll
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net_project\Solution\bin\DalFacade.deps.json
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net_project\Solution\bin\DalFacade.dll
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net_project\Solution\bin\DalFacade.pdb
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net_project\Solution\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net_project\Solution\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net_project\Solution\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net_project\Solution\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net_project\Solution\DalFacade\obj\Debug\DalFacade.sourcelink.json
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net_project\Solution\DalFacade\obj\Debug\DalFacade.dll
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net_project\Solution\DalFacade\obj\Debug\refint\DalFacade.dll
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net_project\Solution\DalFacade\obj\Debug\DalFacade.pdb
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net_project\Solution\DalFacade\obj\Debug\ref\DalFacade.dll
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\bin\DalFacade.deps.json
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\bin\DalFacade.dll
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\bin\DalFacade.pdb
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalFacade\obj\Debug\DalFacade.sourcelink.json
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalFacade\obj\Debug\DalFacade.dll
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalFacade\obj\Debug\refint\DalFacade.dll
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalFacade\obj\Debug\DalFacade.pdb
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalFacade\obj\Debug\ref\DalFacade.dll
+E:\project2\C-net_project\Solution\bin\DalFacade.deps.json
+E:\project2\C-net_project\Solution\bin\DalFacade.dll
+E:\project2\C-net_project\Solution\bin\DalFacade.pdb
+E:\project2\C-net_project\Solution\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+E:\project2\C-net_project\Solution\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+E:\project2\C-net_project\Solution\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+E:\project2\C-net_project\Solution\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+E:\project2\C-net_project\Solution\DalFacade\obj\Debug\DalFacade.sourcelink.json
+E:\project2\C-net_project\Solution\DalFacade\obj\Debug\DalFacade.dll
+E:\project2\C-net_project\Solution\DalFacade\obj\Debug\refint\DalFacade.dll
+E:\project2\C-net_project\Solution\DalFacade\obj\Debug\DalFacade.pdb
+E:\project2\C-net_project\Solution\DalFacade\obj\Debug\ref\DalFacade.dll

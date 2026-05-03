@@ -1,0 +1,110 @@
+M:\שנה ב\C# .net\project\Solution\bin\DalList.deps.json
+M:\שנה ב\C# .net\project\Solution\bin\DalList.dll
+M:\שנה ב\C# .net\project\Solution\bin\DalList.pdb
+M:\שנה ב\C# .net\project\Solution\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+M:\שנה ב\C# .net\project\Solution\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+M:\שנה ב\C# .net\project\Solution\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+M:\שנה ב\C# .net\project\Solution\DalList\obj\Debug\DalList.AssemblyInfo.cs
+M:\שנה ב\C# .net\project\Solution\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+M:\שנה ב\C# .net\project\Solution\DalList\obj\Debug\DalList.csproj.Up2Date
+M:\שנה ב\C# .net\project\Solution\DalList\obj\Debug\DalList.dll
+M:\שנה ב\C# .net\project\Solution\DalList\obj\Debug\refint\DalList.dll
+M:\שנה ב\C# .net\project\Solution\DalList\obj\Debug\DalList.pdb
+M:\שנה ב\C# .net\project\Solution\DalList\obj\Debug\ref\DalList.dll
+M:\שנה ב\C# .net\project\Solution\DalList\obj\Debug\DalList.sourcelink.json
+M:\שנה ב\C# .net\New folder\project\Solution\bin\DalList.deps.json
+M:\שנה ב\C# .net\New folder\project\Solution\bin\DalList.dll
+M:\שנה ב\C# .net\New folder\project\Solution\bin\DalList.pdb
+M:\שנה ב\C# .net\New folder\project\Solution\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+M:\שנה ב\C# .net\New folder\project\Solution\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+M:\שנה ב\C# .net\New folder\project\Solution\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+M:\שנה ב\C# .net\New folder\project\Solution\DalList\obj\Debug\DalList.AssemblyInfo.cs
+M:\שנה ב\C# .net\New folder\project\Solution\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+M:\שנה ב\C# .net\New folder\project\Solution\DalList\obj\Debug\DalList.sourcelink.json
+M:\שנה ב\C# .net\New folder\project\Solution\DalList\obj\Debug\DalList.csproj.Up2Date
+M:\שנה ב\C# .net\New folder\project\Solution\DalList\obj\Debug\DalList.dll
+M:\שנה ב\C# .net\New folder\project\Solution\DalList\obj\Debug\refint\DalList.dll
+M:\שנה ב\C# .net\New folder\project\Solution\DalList\obj\Debug\DalList.pdb
+M:\שנה ב\C# .net\New folder\project\Solution\DalList\obj\Debug\ref\DalList.dll
+E:\שנה ב\C#.NET\project\Solution\bin\DalList.deps.json
+E:\שנה ב\C#.NET\project\Solution\bin\DalList.dll
+E:\שנה ב\C#.NET\project\Solution\bin\DalList.pdb
+E:\שנה ב\C#.NET\project\Solution\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+E:\שנה ב\C#.NET\project\Solution\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+E:\שנה ב\C#.NET\project\Solution\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+E:\שנה ב\C#.NET\project\Solution\DalList\obj\Debug\DalList.AssemblyInfo.cs
+E:\שנה ב\C#.NET\project\Solution\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+E:\שנה ב\C#.NET\project\Solution\DalList\obj\Debug\DalList.sourcelink.json
+E:\שנה ב\C#.NET\project\Solution\DalList\obj\Debug\DalList.csproj.Up2Date
+E:\שנה ב\C#.NET\project\Solution\DalList\obj\Debug\DalList.dll
+E:\שנה ב\C#.NET\project\Solution\DalList\obj\Debug\refint\DalList.dll
+E:\שנה ב\C#.NET\project\Solution\DalList\obj\Debug\DalList.pdb
+E:\שנה ב\C#.NET\project\Solution\DalList\obj\Debug\ref\DalList.dll
+C:\Users\אלישבע\Downloads\jm_1ir0hcFBz0SyE30\project\Solution\bin\DalList.deps.json
+C:\Users\אלישבע\Downloads\jm_1ir0hcFBz0SyE30\project\Solution\bin\DalList.dll
+C:\Users\אלישבע\Downloads\jm_1ir0hcFBz0SyE30\project\Solution\bin\DalList.pdb
+C:\Users\אלישבע\Downloads\jm_1ir0hcFBz0SyE30\project\Solution\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\Users\אלישבע\Downloads\jm_1ir0hcFBz0SyE30\project\Solution\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אלישבע\Downloads\jm_1ir0hcFBz0SyE30\project\Solution\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\Users\אלישבע\Downloads\jm_1ir0hcFBz0SyE30\project\Solution\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\Users\אלישבע\Downloads\jm_1ir0hcFBz0SyE30\project\Solution\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\Users\אלישבע\Downloads\jm_1ir0hcFBz0SyE30\project\Solution\DalList\obj\Debug\DalList.csproj.Up2Date
+C:\Users\אלישבע\Downloads\jm_1ir0hcFBz0SyE30\project\Solution\DalList\obj\Debug\DalList.dll
+C:\Users\אלישבע\Downloads\jm_1ir0hcFBz0SyE30\project\Solution\DalList\obj\Debug\refint\DalList.dll
+C:\Users\אלישבע\Downloads\jm_1ir0hcFBz0SyE30\project\Solution\DalList\obj\Debug\DalList.pdb
+C:\Users\אלישבע\Downloads\jm_1ir0hcFBz0SyE30\project\Solution\DalList\obj\Debug\ref\DalList.dll
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\jm_PQluAMW_eEu0Pm-\project\Solution\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\jm_PQluAMW_eEu0Pm-\project\Solution\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\jm_PQluAMW_eEu0Pm-\project\Solution\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\jm_PQluAMW_eEu0Pm-\project\Solution\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\jm_PQluAMW_eEu0Pm-\project\Solution\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\jm_PQluAMW_eEu0Pm-\project\Solution\DalList\obj\Debug\refint\DalList.dll
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\jm_PQluAMW_eEu0Pm-\project\Solution\bin\DalList.deps.json
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\jm_PQluAMW_eEu0Pm-\project\Solution\bin\DalList.dll
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\jm_PQluAMW_eEu0Pm-\project\Solution\bin\DalList.pdb
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\jm_PQluAMW_eEu0Pm-\project\Solution\DalList\obj\Debug\DalList.csproj.Up2Date
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\jm_PQluAMW_eEu0Pm-\project\Solution\DalList\obj\Debug\DalList.dll
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\jm_PQluAMW_eEu0Pm-\project\Solution\DalList\obj\Debug\DalList.pdb
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\jm_PQluAMW_eEu0Pm-\project\Solution\DalList\obj\Debug\ref\DalList.dll
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalList\obj\Debug\DalList.AssemblyInfo.cs
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalList\obj\Debug\DalList.sourcelink.json
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalList\obj\Debug\DalList.dll
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalList\obj\Debug\refint\DalList.dll
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalList\obj\Debug\DalList.pdb
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\bin\DalList.deps.json
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\bin\DalList.dll
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\bin\DalList.pdb
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalList\obj\Debug\DalList.csproj.Up2Date
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalList\obj\Debug\ref\DalList.dll
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\bin\DalList.deps.json
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\bin\DalList.dll
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\bin\DalList.pdb
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalList\obj\Debug\DalList.sourcelink.json
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalList\obj\Debug\DalList.csproj.Up2Date
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalList\obj\Debug\DalList.dll
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalList\obj\Debug\refint\DalList.dll
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalList\obj\Debug\DalList.pdb
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalList\obj\Debug\ref\DalList.dll
+E:\project2\C-net_project\Solution\bin\DalList.deps.json
+E:\project2\C-net_project\Solution\bin\DalList.dll
+E:\project2\C-net_project\Solution\bin\DalList.pdb
+E:\project2\C-net_project\Solution\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+E:\project2\C-net_project\Solution\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+E:\project2\C-net_project\Solution\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+E:\project2\C-net_project\Solution\DalList\obj\Debug\DalList.AssemblyInfo.cs
+E:\project2\C-net_project\Solution\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+E:\project2\C-net_project\Solution\DalList\obj\Debug\DalList.sourcelink.json
+E:\project2\C-net_project\Solution\DalList\obj\Debug\DalList.csproj.Up2Date
+E:\project2\C-net_project\Solution\DalList\obj\Debug\DalList.dll
+E:\project2\C-net_project\Solution\DalList\obj\Debug\refint\DalList.dll
+E:\project2\C-net_project\Solution\DalList\obj\Debug\DalList.pdb
+E:\project2\C-net_project\Solution\DalList\obj\Debug\ref\DalList.dll

@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\BL\obj\Debug\net8.0\BL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\BL\obj\Debug\net8.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\BL\obj\Debug\net8.0\BL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\BL\obj\Debug\net8.0\BL.AssemblyInfo.cs
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\BL\obj\Debug\net8.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\BL\obj\Debug\net8.0\BL.sourcelink.json
+E:\project2\C-net_project\Solution\BL\obj\Debug\net8.0\BL.csproj.AssemblyReference.cache
+E:\project2\C-net_project\Solution\BL\obj\Debug\net8.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\project2\C-net_project\Solution\BL\obj\Debug\net8.0\BL.AssemblyInfoInputs.cache
+E:\project2\C-net_project\Solution\BL\obj\Debug\net8.0\BL.AssemblyInfo.cs
+E:\project2\C-net_project\Solution\BL\obj\Debug\net8.0\BL.csproj.CoreCompileInputs.cache
+E:\project2\C-net_project\Solution\BL\obj\Debug\net8.0\BL.sourcelink.json

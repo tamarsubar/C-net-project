@@ -1,0 +1,64 @@
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.csproj.AssemblyReference.cache
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.AssemblyInfoInputs.cache
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.AssemblyInfo.cs
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.csproj.CoreCompileInputs.cache
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.sourcelink.json
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalXml\bin\Debug\net8.0\DalXml.deps.json
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalXml\bin\Debug\net8.0\DalXml.dll
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalXml\bin\Debug\net8.0\DalXml.pdb
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalXml\bin\Debug\net8.0\DalFacade.dll
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalXml\bin\Debug\net8.0\DalFacade.pdb
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.csproj.Up2Date
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.dll
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalXml\obj\Debug\net8.0\refint\DalXml.dll
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.pdb
+D:\תכנות\שנה ב\C#. NET\פרויקט\C-net_project\Solution\DalXml\obj\Debug\net8.0\ref\DalXml.dll
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net_project\Solution\DalXml\bin\Debug\net8.0\DalXml.deps.json
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net_project\Solution\DalXml\bin\Debug\net8.0\DalXml.dll
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net_project\Solution\DalXml\bin\Debug\net8.0\DalXml.pdb
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net_project\Solution\DalXml\bin\Debug\net8.0\DalFacade.dll
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net_project\Solution\DalXml\bin\Debug\net8.0\DalFacade.pdb
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.csproj.AssemblyReference.cache
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.AssemblyInfoInputs.cache
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.AssemblyInfo.cs
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.csproj.CoreCompileInputs.cache
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.sourcelink.json
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.csproj.Up2Date
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.dll
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net_project\Solution\DalXml\obj\Debug\net8.0\refint\DalXml.dll
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.pdb
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net_project\Solution\DalXml\obj\Debug\net8.0\ref\DalXml.dll
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalXml\bin\Debug\net8.0\DalXml.deps.json
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalXml\bin\Debug\net8.0\DalXml.dll
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalXml\bin\Debug\net8.0\DalXml.pdb
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalXml\bin\Debug\net8.0\DalFacade.dll
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalXml\bin\Debug\net8.0\DalFacade.pdb
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.AssemblyInfo.cs
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.sourcelink.json
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.csproj.Up2Date
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.dll
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalXml\obj\Debug\net8.0\refint\DalXml.dll
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.pdb
+C:\Users\User\Desktop\מסלול\שנה ב\C# מתקדם\project2\C-net_project\Solution\DalXml\obj\Debug\net8.0\ref\DalXml.dll
+E:\project2\C-net_project\Solution\DalXml\bin\Debug\net8.0\DalXml.deps.json
+E:\project2\C-net_project\Solution\DalXml\bin\Debug\net8.0\DalXml.dll
+E:\project2\C-net_project\Solution\DalXml\bin\Debug\net8.0\DalXml.pdb
+E:\project2\C-net_project\Solution\DalXml\bin\Debug\net8.0\DalFacade.dll
+E:\project2\C-net_project\Solution\DalXml\bin\Debug\net8.0\DalFacade.pdb
+E:\project2\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.csproj.AssemblyReference.cache
+E:\project2\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+E:\project2\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.AssemblyInfoInputs.cache
+E:\project2\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.AssemblyInfo.cs
+E:\project2\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.csproj.CoreCompileInputs.cache
+E:\project2\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.sourcelink.json
+E:\project2\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.csproj.Up2Date
+E:\project2\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.dll
+E:\project2\C-net_project\Solution\DalXml\obj\Debug\net8.0\refint\DalXml.dll
+E:\project2\C-net_project\Solution\DalXml\obj\Debug\net8.0\DalXml.pdb
+E:\project2\C-net_project\Solution\DalXml\obj\Debug\net8.0\ref\DalXml.dll

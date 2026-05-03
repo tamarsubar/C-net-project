@@ -1,0 +1,9 @@
+﻿namespace BL.BlImplementation;
+using BL.BlApi;
+
+internal class Bl : IBl
+{
+    public ICustomer Customer => new CustomerImplementation();
+    public IProduct Product => new ProductImplementation();
+    public ISale Sale => new SaleImplementation();
+}
