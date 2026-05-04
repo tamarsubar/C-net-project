@@ -1,3 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ArrayOfProduct>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <Id>1005</Id>
+    <Name>lamp</Name>
+    <Category>holiday</Category>
+    <Price>22</Price>
+    <QuantityInStock>3</QuantityInStock>
+  </Product>
+  <Product>
+    <Id>1006</Id>
+    <Name>שעון קיר יוקרתי מעוצב בסגנון ארופאי</Name>
+    <Category>birthDay</Category>
+    <Price>200</Price>
+    <QuantityInStock>22</QuantityInStock>
+  </Product>
+  <Product>
+    <Id>1007</Id>
+    <Name>בושם מפנק לאישה בנינוח רוזמרין</Name>
+    <Category>wife</Category>
+    <Price>550</Price>
+    <QuantityInStock>10</QuantityInStock>
+  </Product>
+  <Product>
+    <Id>1008</Id>
+    <Name>כיסוי חלות המתנה המושלמת לחג</Name>
+    <Category>holiday</Category>
+    <Price>369.9</Price>
+    <QuantityInStock>12</QuantityInStock>
+  </Product>
+  <Product>
+    <Id>1009</Id>
+    <Name>מסגרות לתמונות המתנה המושלמת לשוויגער</Name>
+    <Category>holiday</Category>
+    <Price>100</Price>
+    <QuantityInStock>59</QuantityInStock>
+  </Product>
 </ArrayOfProduct>

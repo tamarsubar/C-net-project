@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 namespace DO
 {
     
-    public record Product(int Id,string Name,Enum Category,double Price,int QuantityInStock)
+    public record Product(int Id,string Name, DO.category Category, double Price,int QuantityInStock)
     {
         public Product() : this(0, "", default(DO.category), 1.1, 5) { }
         public override string ToString() =>

@@ -36,7 +36,7 @@ internal class CustomerImplementation : ICustomer
     {
         XElement root= XElement.Load(s_path);
         XElement? customer=(from c in root.Elements("Customer")
-                            where (int)c.Element("Id")! == id
+                            where (int?)c.Element("Id")== id
                             select c).FirstOrDefault();
         if (customer != null)
         {
@@ -52,10 +52,10 @@ internal class CustomerImplementation : ICustomer
                 where (int?)c.Element("Id")! == id
                 select new Customer
                 {
-                    Id = (int)c.Element("Id")!,
-                    Name= (string)c.Element("Name")!,
-                    Address=(string)c.Element("Address")!,
-                    Phone=(string)c.Element("Phone")!
+                    Id = (int?)c.Element("Id")?? 0,
+                    Name= (string?)c.Element("Name")?? "",
+                    Address=(string?)c.Element("Address")?? "",
+                    Phone=(string?)c.Element("Phone")?? ""
 
                 }).FirstOrDefault();
        
@@ -72,10 +72,10 @@ internal class CustomerImplementation : ICustomer
         var customers = (from c in root.Elements("Customer")
                          select new Customer
                          {
-                             Id = (int)c.Element("Id")!,
-                             Name = (string)c.Element("Name")!,
-                             Address = (string)c.Element("Address")!,
-                             Phone = (string)c.Element("Phone")!
+                             Id = (int?)c.Element("Id")?? 0,
+                             Name = (string?)c.Element("Name")?? "",
+                             Address = (string?)c.Element("Address")?? "",
+                             Phone = (string?)c.Element("Phone")?? ""
                          }).Cast<Customer?>();
         if(filter == null)
             return customers.ToList();

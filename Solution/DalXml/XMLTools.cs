@@ -18,9 +18,12 @@ internal class XMLTools
 
     public static List<T> LoadListFromXMLSerializer<T>(string filePath)
     {
-        if (!File.Exists(filePath)) return new List<T>();
+        if (!File.Exists(filePath) || new FileInfo(filePath).Length == 0) return new List<T>();
         using FileStream file = new FileStream(filePath, FileMode.Open);
         XmlSerializer x = new XmlSerializer(typeof(List<T>));
         return (List<T>)x.Deserialize(file)!;
     }
+
+
+   
 }

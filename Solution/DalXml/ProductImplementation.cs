@@ -12,7 +12,7 @@ internal class ProductImplementation : IProduct
     readonly string s_path = @"..\xml\products.xml";
     public int Add(Product product)
     {
-      List<Product> products = XMLTools.LoadListFromXMLSerializer<Product>(s_path);
+        List<Product> products = XMLTools.LoadListFromXMLSerializer<Product>(s_path);
         int nextId = Config.getProductNum;
         Product newItem=product with { Id=nextId }; 
         products.Add(newItem);

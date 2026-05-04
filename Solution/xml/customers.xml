@@ -1,10 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfCustomer>
-  <Customer></Customer>
   <Customer>
-    <Id>12</Id>
-    <Name>elisheva</Name>
+    <Id>22</Id>
+    <Name>tamar</Name>
+    <Address>rabi akiva</Address>
+    <Phone>0556745896</Phone>
+  </Customer>
+  <Customer>
+    <Id>123</Id>
+    <Name>Elisheva</Name>
     <Address>rashbi</Address>
     <Phone>0583292053</Phone>
+  </Customer>
+  <Customer>
+    <Id>1223</Id>
+    <Name>esty</Name>
+    <Address>netivotHamishpat</Address>
+    <Phone>0556453215</Phone>
+  </Customer>
+  <Customer>
+    <Id>1243</Id>
+    <Name>rivki</Name>
+    <Address>rashbi</Address>
+    <Phone>0458546987</Phone>
+  </Customer>
+  <Customer>
+    <Id>13</Id>
+    <Name>tamar</Name>
+    <Address>rashbi</Address>
+    <Phone>0555555555</Phone>
   </Customer>
 </ArrayOfCustomer>
