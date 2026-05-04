@@ -1,7 +1,6 @@
 ﻿using System.Reflection;
 using System.Collections;
 using System.Text;
-using BL.BO;
 
 namespace BL.BO;
 
@@ -62,7 +61,7 @@ public static class Tools
     {
         Id = doSale.Id,
         CountForSale = doSale.CountForSale,
-        Price = doSale.TotalPrice,
+        TotalPrice = doSale.TotalPrice,
         NeedClub = doSale.NeedClub
     };
 }

@@ -4,3 +4,11 @@ C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\BL\obj\
 C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\BL\obj\Debug\BL.AssemblyInfo.cs
 C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
 C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\BL\obj\Debug\BL.sourcelink.json
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\bin\BL.deps.json
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\bin\BL.dll
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\bin\BL.pdb
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\BL\obj\Debug\BL.csproj.Up2Date
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\BL\obj\Debug\BL.dll
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\BL\obj\Debug\refint\BL.dll
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\BL\obj\Debug\BL.pdb
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\BL\obj\Debug\ref\BL.dll
