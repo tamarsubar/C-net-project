@@ -13,9 +13,9 @@ public class Initialization
     private static void CreateCustomer()
     {
         s_dal.Customer.Create(new Customer(123, "Elisheva", "rashbi", "0583292053"));
-        s_dal.Customer.Create(new Customer(123, "tamar", "rabbi", "0564532156"));
-        s_dal.Customer.Create(new Customer(123, "esty", "netivotHamishpat", "0556453215"));
-        s_dal.Customer.Create(new Customer(123, "rivki", "rashbi", "0458546987"));
+        s_dal.Customer.Create(new Customer(13, "tamar", "rabbi", "0564532156"));
+        s_dal.Customer.Create(new Customer(1223, "esty", "netivotHamishpat", "0556453215"));
+        s_dal.Customer.Create(new Customer(1243, "rivki", "rashbi", "0458546987"));
 
     }
     private static void CreateSale()

@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ArrayOfSale>
+<ArrayOfSale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sale>
+    <Id>1</Id>
+    <IdProduct>4</IdProduct>
+    <CountForSale>30</CountForSale>
+    <TotalPrice>2</TotalPrice>
+    <NeedClub>false</NeedClub>
+    <StartSale>0001-01-01T00:00:00</StartSale>
+    <FinishSale>0001-01-01T00:00:00</FinishSale>
+  </Sale>
 </ArrayOfSale>

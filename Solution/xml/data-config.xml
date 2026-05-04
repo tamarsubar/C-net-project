@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <config>
-	<ProductNum>1000</ProductNum>
-	<SaleNum>1</SaleNum>
+  <ProductNum>1003</ProductNum>
+  <SaleNum>2</SaleNum>
 </config>
-

@@ -38,6 +38,19 @@
         "runtime": {
           "bin/placeholder/DalList.dll": {}
         }
+      },
+      "DalXml/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DalFacade": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DalXml.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DalXml.dll": {}
+        }
       }
     }
   },
@@ -56,11 +69,18 @@
       "type": "project",
       "path": "../DalList/DalList.csproj",
       "msbuildProject": "../DalList/DalList.csproj"
+    },
+    "DalXml/1.0.0": {
+      "type": "project",
+      "path": "../DalXml/DalXml.csproj",
+      "msbuildProject": "../DalXml/DalXml.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "BL >= 1.0.0"
+      "BL >= 1.0.0",
+      "DalList >= 1.0.0",
+      "DalXml >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -98,6 +118,12 @@
           "projectReferences": {
             "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\BL\\BL.csproj": {
               "projectPath": "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\BL\\BL.csproj"
+            },
+            "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\DalList\\DalList.csproj": {
+              "projectPath": "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\DalList\\DalList.csproj"
+            },
+            "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\DalXml\\DalXml.csproj": {
+              "projectPath": "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\DalXml\\DalXml.csproj"
             }
           }
         }

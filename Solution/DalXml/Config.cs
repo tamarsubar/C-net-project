@@ -12,7 +12,7 @@ namespace Dal
     {
         private static string s_data_config_xml = "data-config";
 
-        private static string s_path = @"..\..\..\..\xml\data-config.xml"; 
+        private static string s_path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"..\xml\data-config.xml");
         public static int getProductNum
         {
             get => GetAndIncrement("ProductNum");

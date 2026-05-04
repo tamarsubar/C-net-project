@@ -1,0 +1,14 @@
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\bin\DalXml.deps.json
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\bin\DalXml.dll
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\bin\DalXml.pdb
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalXml\obj\Debug\DalXml.sourcelink.json
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalXml\obj\Debug\DalXml.csproj.Up2Date
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalXml\obj\Debug\DalXml.dll
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalXml\obj\Debug\refint\DalXml.dll
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalXml\obj\Debug\DalXml.pdb
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalXml\obj\Debug\ref\DalXml.dll
