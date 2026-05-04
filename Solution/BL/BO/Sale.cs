@@ -1,4 +1,6 @@
-﻿namespace BO;
+﻿using BO;
+
+namespace BL.BO;
 
 public class Sale
 {

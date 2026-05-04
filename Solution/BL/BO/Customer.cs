@@ -1,4 +1,6 @@
-﻿namespace BL.BO;
+﻿using BO;
+
+namespace BL.BO;
 
 public class Customer
 {

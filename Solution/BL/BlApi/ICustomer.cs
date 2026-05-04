@@ -2,6 +2,7 @@
 
 namespace BL.BlApi;
 
+
 public interface ICustomer
 {
     int Create(Customer customer);

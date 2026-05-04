@@ -1,5 +1,7 @@
 ﻿namespace BL.BlImplementation;
-using static BO.Tools;
+
+using BL.BO;
+using static BL.BO.Tools;
 internal class ProductImplementation : BL.BlApi.IProduct
 {
     private readonly DalApi.IDal _dal = DalApi.Factory.Get;
@@ -7,7 +9,7 @@ internal class ProductImplementation : BL.BlApi.IProduct
     public int Create(BL.BO.Product product)
     {
         try { return _dal.Product.Create(product.ToDO()); }
-        catch (DalAlreadyExistsException ex) { throw new BL.BO.BlAlreadyExistsException("מוצר קיים", ex); }
+        catch (BlAlreadyExistsException ex) { throw new BL.BO.BlAlreadyExistsException("מוצר קיים", ex); }
     }
 
     public BL.BO.Product? Read(int id)
@@ -28,12 +30,12 @@ internal class ProductImplementation : BL.BlApi.IProduct
     public void Update(BL.BO.Product product)
     {
         try { _dal.Product.Update(product.ToDO()); }
-        catch (DO.DalDoesNotExistException ex) { throw new BL.BO.BlDoesNotExistException("מוצר לא נמצא", ex); }
+        catch (BlDoesNotExistException ex) { throw new BL.BO.BlDoesNotExistException("מוצר לא נמצא", ex); }
     }
 
     public void Delete(int id)
     {
         try { _dal.Product.Delete(id); }
-        catch (DO.DalDoesNotExistException ex) { throw new BL.BO.BlDoesNotExistException("לא ניתן למחוק", ex); }
+        catch (BlDoesNotExistException ex) { throw new BL.BO.BlDoesNotExistException("לא ניתן למחוק", ex); }
     }
 }

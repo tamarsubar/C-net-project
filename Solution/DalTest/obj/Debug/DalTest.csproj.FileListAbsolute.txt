@@ -148,3 +148,20 @@ E:\project2\C-net_project\Solution\DalTest\obj\Debug\refint\DalTest.dll
 E:\project2\C-net_project\Solution\DalTest\obj\Debug\DalTest.pdb
 E:\project2\C-net_project\Solution\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
 E:\project2\C-net_project\Solution\DalTest\obj\Debug\ref\DalTest.dll
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\bin\DalTest.exe
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\bin\DalTest.deps.json
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\bin\DalTest.runtimeconfig.json
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\bin\DalTest.dll
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\bin\DalTest.pdb
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalTest\obj\Debug\DalTest.sourcelink.json
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalTest\obj\Debug\DalTest.csproj.Up2Date
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalTest\obj\Debug\DalTest.dll
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalTest\obj\Debug\refint\DalTest.dll
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalTest\obj\Debug\DalTest.pdb
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalTest\obj\Debug\ref\DalTest.dll

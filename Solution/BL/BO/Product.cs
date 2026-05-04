@@ -1,4 +1,6 @@
-﻿namespace BL.BO;
+﻿using BO;
+
+namespace BL.BO;
 
 public class Product
 {
@@ -9,5 +11,5 @@ public class Product
     public int QuantityInStock { get; set; }
     public List<SaleInProduct>? Sales { get; set; }
     public override string ToString() => this.ToStringProperty();
-   
+
 }

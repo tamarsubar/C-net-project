@@ -108,3 +108,17 @@ E:\project2\C-net_project\Solution\DalList\obj\Debug\DalList.dll
 E:\project2\C-net_project\Solution\DalList\obj\Debug\refint\DalList.dll
 E:\project2\C-net_project\Solution\DalList\obj\Debug\DalList.pdb
 E:\project2\C-net_project\Solution\DalList\obj\Debug\ref\DalList.dll
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\bin\DalList.deps.json
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\bin\DalList.dll
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\bin\DalList.pdb
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalList\obj\Debug\DalList.sourcelink.json
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalList\obj\Debug\DalList.csproj.Up2Date
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalList\obj\Debug\DalList.dll
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalList\obj\Debug\refint\DalList.dll
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalList\obj\Debug\DalList.pdb
+C:\Users\058-329-2053\תכנות\שנה ב\C#.NET\C-net-project\Solution\DalList\obj\Debug\ref\DalList.dll

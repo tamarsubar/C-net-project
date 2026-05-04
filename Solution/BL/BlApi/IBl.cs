@@ -1,4 +1,6 @@
-﻿namespace BL.BlApi;
+﻿using BL.BlImplementation;
+
+namespace BL.BlApi;
 
 public interface IBl
 {
