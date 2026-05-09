@@ -30,4 +30,22 @@
     <Address>rashbi</Address>
     <Phone>0555555555</Phone>
   </Customer>
+  <Customer>
+    <Id>0</Id>
+    <Name>5</Name>
+    <Address>egtrrsy</Address>
+    <Phone></Phone>
+  </Customer>
+  <Customer>
+    <Id>0</Id>
+    <Name>tamata</Name>
+    <Address>rewiugfi</Address>
+    <Phone>20099494</Phone>
+  </Customer>
+  <Customer>
+    <Id>145</Id>
+    <Name>davwajh</Name>
+    <Address>dwkjbk</Address>
+    <Phone>0256505</Phone>
+  </Customer>
 </ArrayOfCustomer>

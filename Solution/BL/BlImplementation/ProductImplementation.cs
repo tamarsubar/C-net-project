@@ -9,12 +9,12 @@ internal class ProductImplementation : BL.BlApi.IProduct
     public int Create(BL.BO.Product product)
     {
         try { return _dal.Product.Create(product.ToDO()); }
-        catch (BlAlreadyExistsException ex) { throw new BL.BO.BlAlreadyExistsException("מוצר קיים", ex); }
+        catch (BlAlreadyExistsException ex) { throw new BL.BO.BlAlreadyExistsException("Existing product", ex); }
     }
 
     public BL.BO.Product? Read(int id)
     {
-        var doProd = _dal.Product.Read(id) ?? throw new BL.BO.BlDoesNotExistException("מוצר לא נמצא");
+        var doProd = _dal.Product.Read(id) ?? throw new BL.BO.BlDoesNotExistException("product not found");
         var boProd = doProd.ToBO();
         boProd.Sales = _dal.Sale.ReadAll(s => s.IdProduct == id).Select(s => s.ToSaleInProduct()).ToList();
         return boProd;
@@ -30,12 +30,12 @@ internal class ProductImplementation : BL.BlApi.IProduct
     public void Update(BL.BO.Product product)
     {
         try { _dal.Product.Update(product.ToDO()); }
-        catch (BlDoesNotExistException ex) { throw new BL.BO.BlDoesNotExistException("מוצר לא נמצא", ex); }
+        catch (BlDoesNotExistException ex) { throw new BL.BO.BlDoesNotExistException("product not found", ex); }
     }
 
     public void Delete(int id)
     {
         try { _dal.Product.Delete(id); }
-        catch (BlDoesNotExistException ex) { throw new BL.BO.BlDoesNotExistException("לא ניתן למחוק", ex); }
+        catch (BlDoesNotExistException ex) { throw new BL.BO.BlDoesNotExistException("Cannot be deleted", ex); }
     }
 }

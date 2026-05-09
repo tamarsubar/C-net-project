@@ -27,10 +27,9 @@ public class Initialization
     }
     private static void CreateProduct()
     {
-        s_dal.Product.Create(new Product(01, "שעון קיר יוקרתי מעוצב בסגנון ארופאי", category.birthDay, 200, 22));
-        s_dal.Product.Create(new Product(02, "בושם מפנק לאישה בנינוח רוזמרין", category.wife, 550, 10));
-        s_dal.Product.Create(new Product(03, "כיסוי חלות המתנה המושלמת לחג", category.holiday, 369.9, 12));
-        s_dal.Product.Create(new Product(04, "מסגרות לתמונות המתנה המושלמת לשוויגער", category.holiday, 100,59));
+        s_dal.Product.Create(new Product(01, "Luxury European Style Wall Clock", category.birthDay, 200, 22));
+        s_dal.Product.Create(new Product(03, "Challah Cover - The Perfect Holiday Gift", category.holiday, 369.9, 12));
+        s_dal.Product.Create(new Product(04, "Picture Frames - The Perfect Gift", category.holiday, 100, 59));
     }
     
     public static void Initialize()

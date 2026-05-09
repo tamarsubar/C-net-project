@@ -19,20 +19,41 @@
     <Name>בושם מפנק לאישה בנינוח רוזמרין</Name>
     <Category>wife</Category>
     <Price>550</Price>
-    <QuantityInStock>10</QuantityInStock>
+    <QuantityInStock>0</QuantityInStock>
   </Product>
   <Product>
     <Id>1008</Id>
     <Name>כיסוי חלות המתנה המושלמת לחג</Name>
     <Category>holiday</Category>
     <Price>369.9</Price>
-    <QuantityInStock>12</QuantityInStock>
+    <QuantityInStock>6</QuantityInStock>
   </Product>
   <Product>
     <Id>1009</Id>
     <Name>מסגרות לתמונות המתנה המושלמת לשוויגער</Name>
     <Category>holiday</Category>
     <Price>100</Price>
-    <QuantityInStock>59</QuantityInStock>
+    <QuantityInStock>39</QuantityInStock>
+  </Product>
+  <Product>
+    <Id>1010</Id>
+    <Name>bosem</Name>
+    <Category>holiday</Category>
+    <Price>300</Price>
+    <QuantityInStock>20</QuantityInStock>
+  </Product>
+  <Product>
+    <Id>1011</Id>
+    <Name>bkjb</Name>
+    <Category>wife</Category>
+    <Price>20</Price>
+    <QuantityInStock>1</QuantityInStock>
+  </Product>
+  <Product>
+    <Id>1012</Id>
+    <Name>gjeb</Name>
+    <Category>birthDay</Category>
+    <Price>50</Price>
+    <QuantityInStock>20</QuantityInStock>
   </Product>
 </ArrayOfProduct>
