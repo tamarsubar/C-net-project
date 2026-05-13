@@ -56,4 +56,18 @@
     <Price>50</Price>
     <QuantityInStock>20</QuantityInStock>
   </Product>
+  <Product>
+    <Id>1013</Id>
+    <Name>chair</Name>
+    <Category>birthDay</Category>
+    <Price>305</Price>
+    <QuantityInStock>2</QuantityInStock>
+  </Product>
+  <Product>
+    <Id>1014</Id>
+    <Name>shoes</Name>
+    <Category>holiday</Category>
+    <Price>150</Price>
+    <QuantityInStock>46</QuantityInStock>
+  </Product>
 </ArrayOfProduct>

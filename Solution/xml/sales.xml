@@ -9,4 +9,22 @@
     <StartSale>0001-01-01T00:00:00</StartSale>
     <FinishSale>0001-01-01T00:00:00</FinishSale>
   </Sale>
+  <Sale>
+    <Id>2</Id>
+    <IdProduct>1013</IdProduct>
+    <CountForSale>5</CountForSale>
+    <TotalPrice>1200</TotalPrice>
+    <NeedClub>true</NeedClub>
+    <StartSale>2026-05-13T00:00:00</StartSale>
+    <FinishSale>2026-05-16T00:00:00</FinishSale>
+  </Sale>
+  <Sale>
+    <Id>3</Id>
+    <IdProduct>1014</IdProduct>
+    <CountForSale>2</CountForSale>
+    <TotalPrice>400</TotalPrice>
+    <NeedClub>true</NeedClub>
+    <StartSale>2026-05-13T00:00:00</StartSale>
+    <FinishSale>2026-06-16T00:00:00</FinishSale>
+  </Sale>
 </ArrayOfSale>

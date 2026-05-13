@@ -48,4 +48,10 @@
     <Address>dwkjbk</Address>
     <Phone>0256505</Phone>
   </Customer>
+  <Customer>
+    <Id>3294</Id>
+    <Name>elisheva</Name>
+    <Address>rashbi</Address>
+    <Phone>0583292053</Phone>
+  </Customer>
 </ArrayOfCustomer>

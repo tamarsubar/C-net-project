@@ -7,49 +7,493 @@ class Program
 {
     private static readonly IBl s_bl = Factory.Get;
 
-    private static Dictionary<int, Order> ordersMap = new Dictionary<int, Order>();
+    private static Dictionary<int, Order> ordersMap = new();
     private static int? currentActiveId = null;
 
     static void Main(string[] args)
     {
-        int choice;
+        int choose;
+
         do
         {
-            Console.WriteLine("\n--- Main Menu ---");
-            Console.WriteLine("1-Customers | 2-Products | 3-Sales | 4-Order Management | 0-Exit");
-            if (!int.TryParse(Console.ReadLine(), out choice)) continue;
+            choose = PrintMainMenu();
 
-            switch (choice)
+            switch (choose)
             {
-                case 1: CustomerMenu(); break;
-                case 2: ProductMenu(); break;
-                case 3: SaleMenu(); break;
-                case 4: OrderManagementMenu(); break;
-                case 0: Console.WriteLine("Exiting..."); break;
+                case 1:
+                    PrintSubMenu("customers");
+                    break;
+
+                case 2:
+                    PrintSubMenu("products");
+                    break;
+
+                case 3:
+                    PrintSubMenu("sales");
+                    break;
+
+                case 4:
+                    OrderManagementMenu();
+                    break;
+
+                case 0:
+                    Console.WriteLine("Goodbye.");
+                    break;
+
+                default:
+                    Console.WriteLine("Invalid choice.");
+                    break;
             }
-        } while (choice != 0);
+
+        } while (choose != 0);
     }
+
+    public static int PrintMainMenu()
+    {
+        try
+        {
+            Console.WriteLine();
+            Console.WriteLine("------ MAIN MENU ------");
+            Console.WriteLine("customers : 1");
+            Console.WriteLine("products  : 2");
+            Console.WriteLine("sales     : 3");
+            Console.WriteLine("orders    : 4");
+            Console.WriteLine("exit      : 0");
+
+            return int.Parse(Console.ReadLine()!);
+        }
+        catch
+        {
+            return -1;
+        }
+    }
+
+    public static int ShowChoose(string s)
+    {
+        Console.WriteLine($"add {s} : 1");
+        Console.WriteLine($"show {s} : 2");
+        Console.WriteLine($"update {s} : 3");
+        Console.WriteLine($"delete {s} : 4");
+        Console.WriteLine($"show all {s}s : 5");
+
+        return int.Parse(Console.ReadLine()!);
+    }
+
+    public static void PrintSubMenu(string s)
+    {
+        try
+        {
+            int choose;
+
+            switch (s)
+            {
+                case "customers":
+
+                    choose = ShowChoose("customer");
+
+                    switch (choose)
+                    {
+                        case 1:
+                            AddCustomer();
+                            break;
+
+                        case 2:
+                            ReadCustomer();
+                            break;
+
+                        case 3:
+                            UpdateCustomer();
+                            break;
+
+                        case 4:
+                            DeleteCustomer();
+                            break;
+
+                        case 5:
+                            ReadAllCustomers();
+                            break;
+                    }
+
+                    break;
+
+                case "products":
+
+                    choose = ShowChoose("product");
+
+                    switch (choose)
+                    {
+                        case 1:
+                            AddProduct();
+                            break;
+
+                        case 2:
+                            ReadProduct();
+                            break;
+
+                        case 3:
+                            UpdateProduct();
+                            break;
+
+                        case 4:
+                            DeleteProduct();
+                            break;
+
+                        case 5:
+                            ReadAllProducts();
+                            break;
+                    }
+
+                    break;
+
+                case "sales":
+
+                    choose = ShowChoose("sale");
+
+                    switch (choose)
+                    {
+                        case 1:
+                            AddSale();
+                            break;
+
+                        case 2:
+                            ReadSale();
+                            break;
+
+                        case 3:
+                            UpdateSale();
+                            break;
+
+                        case 4:
+                            DeleteSale();
+                            break;
+
+                        case 5:
+                            ReadAllSales();
+                            break;
+                    }
+
+                    break;
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+    }
+
+
+    private static void AddCustomer()
+    {
+        try
+        {
+            Customer c = new();
+
+            Console.WriteLine("Enter customer id");
+            c.Id = int.Parse(Console.ReadLine()!);
+
+            Console.WriteLine("Enter customer name");
+            c.Name = Console.ReadLine()!;
+
+            Console.WriteLine("Enter customer address");
+            c.Address = Console.ReadLine()!;
+
+            Console.WriteLine("Enter customer phone");
+            c.Phone = Console.ReadLine()!;
+
+            s_bl.Customer.Create(c);
+
+            Console.WriteLine("Customer added successfully");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+    }
+
+    private static void ReadCustomer()
+    {
+        Console.WriteLine("Enter customer id");
+        int id = int.Parse(Console.ReadLine()!);
+
+        Console.WriteLine(s_bl.Customer.Read(id));
+    }
+
+    private static void UpdateCustomer()
+    {
+        try
+        {
+            Customer c = new();
+
+            Console.WriteLine("Enter customer id");
+            c.Id = int.Parse(Console.ReadLine()!);
+
+            Console.WriteLine("Enter customer name");
+            c.Name = Console.ReadLine()!;
+
+            Console.WriteLine("Enter customer address");
+            c.Address = Console.ReadLine()!;
+
+            Console.WriteLine("Enter customer phone");
+            c.Phone = Console.ReadLine()!;
+
+            s_bl.Customer.Update(c);
+
+            Console.WriteLine("Customer updated successfully");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+    }
+
+    private static void DeleteCustomer()
+    {
+        try
+        {
+            Console.WriteLine("Enter customer id");
+            int id = int.Parse(Console.ReadLine()!);
+
+            s_bl.Customer.Delete(id);
+
+            Console.WriteLine("Deleted successfully");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+    }
+
+    private static void ReadAllCustomers()
+    {
+        foreach (var item in s_bl.Customer.ReadAll())
+        {
+            Console.WriteLine(item);
+            Console.WriteLine("---------------------------");
+        }
+    }
+
+
+    private static void AddProduct()
+    {
+        try
+        {
+            Product p = new();
+
+            Console.WriteLine("Enter product name");
+            p.Name = Console.ReadLine()!;
+
+            Console.WriteLine("Enter category");
+            p.Category = (Category)Enum.Parse(typeof(Category), Console.ReadLine()!);
+
+            Console.WriteLine("Enter product price");
+            p.Price = double.Parse(Console.ReadLine()!);
+
+            Console.WriteLine("Enter quantity in stock");
+            p.QuantityInStock = int.Parse(Console.ReadLine()!);
+
+            s_bl.Product.Create(p);
+
+            Console.WriteLine("Product added successfully");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+    }
+
+    private static void ReadProduct()
+    {
+        Console.WriteLine("Enter product id");
+        int id = int.Parse(Console.ReadLine()!);
+
+        Console.WriteLine(s_bl.Product.Read(id));
+    }
+
+    private static void UpdateProduct()
+    {
+        try
+        {
+            Product p = new();
+
+            Console.WriteLine("Enter product name");
+            p.Name = Console.ReadLine()!;
+
+            Console.WriteLine("Enter category");
+            p.Category = (Category)Enum.Parse(typeof(Category), Console.ReadLine()!);
+
+            Console.WriteLine("Enter product price");
+            p.Price = double.Parse(Console.ReadLine()!);
+
+            Console.WriteLine("Enter quantity in stock");
+            p.QuantityInStock = int.Parse(Console.ReadLine()!);
+
+            s_bl.Product.Update(p);
+
+            Console.WriteLine("Product updated successfully");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+    }
+
+    private static void DeleteProduct()
+    {
+        try
+        {
+            Console.WriteLine("Enter product id");
+            int id = int.Parse(Console.ReadLine()!);
+
+            s_bl.Product.Delete(id);
+
+            Console.WriteLine("Deleted successfully");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+    }
+
+    private static void ReadAllProducts()
+    {
+        foreach (var item in s_bl.Product.ReadAll())
+        {
+            Console.WriteLine(item);
+            Console.WriteLine("---------------------------");
+        }
+    }
+
+
+    private static void AddSale()
+    {
+        try
+        {
+            Sale s = new();
+
+            Console.WriteLine("Enter product id");
+            s.IdProduct = int.Parse(Console.ReadLine()!);
+
+            Console.WriteLine("Enter count for sale");
+            s.CountForSale = int.Parse(Console.ReadLine()!);
+
+            Console.WriteLine("Enter total price");
+            s.TotalPrice = double.Parse(Console.ReadLine()!);
+
+            Console.WriteLine("Need club? true/false");
+            s.NeedClub = bool.Parse(Console.ReadLine()!);
+
+            Console.WriteLine("Enter start date");
+            s.StartSale = DateTime.Parse(Console.ReadLine()!);
+
+            Console.WriteLine("Enter finish date");
+            s.FinishSale = DateTime.Parse(Console.ReadLine()!);
+
+            s_bl.Sale.Create(s);
+
+            Console.WriteLine("Sale added successfully");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+    }
+
+    private static void ReadSale()
+    {
+        Console.WriteLine("Enter sale id");
+        int id = int.Parse(Console.ReadLine()!);
+
+        Console.WriteLine(s_bl.Sale.Read(id));
+    }
+
+    private static void UpdateSale()
+    {
+        try
+        {
+            Sale s = new();
+
+            Console.WriteLine("Enter product id");
+            s.IdProduct = int.Parse(Console.ReadLine()!);
+
+            Console.WriteLine("Enter count for sale");
+            s.CountForSale = int.Parse(Console.ReadLine()!);
+
+            Console.WriteLine("Enter total price");
+            s.TotalPrice = double.Parse(Console.ReadLine()!);
+
+            Console.WriteLine("Need club? true/false");
+            s.NeedClub = bool.Parse(Console.ReadLine()!);
+
+            Console.WriteLine("Enter start date");
+            s.StartSale = DateTime.Parse(Console.ReadLine()!);
+
+            Console.WriteLine("Enter finish date");
+            s.FinishSale = DateTime.Parse(Console.ReadLine()!);
+
+            s_bl.Sale.Update(s);
+
+            Console.WriteLine("Sale updated successfully");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+    }
+
+    private static void DeleteSale()
+    {
+        try
+        {
+            Console.WriteLine("Enter sale id");
+            int id = int.Parse(Console.ReadLine()!);
+
+            s_bl.Sale.Delete(id);
+
+            Console.WriteLine("Deleted successfully");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+    }
+
+    private static void ReadAllSales()
+    {
+        foreach (var item in s_bl.Sale.ReadAll())
+        {
+            Console.WriteLine(item);
+            Console.WriteLine("---------------------------");
+        }
+    }
+
 
     private static void OrderManagementMenu()
     {
         try
         {
-            Console.WriteLine("\n--- Order System ---");
-            Console.WriteLine("1 - Current Order (Continue) | 2 - Start New Order | 3 - List All Active Carts | 0 - Back");
-            if (!int.TryParse(Console.ReadLine(), out int choice)) return;
+            Console.WriteLine();
+            Console.WriteLine("------ ORDER MENU ------");
+            Console.WriteLine("1 - Continue current order");
+            Console.WriteLine("2 - Start new order");
+            Console.WriteLine("3 - Show all active carts");
+            Console.WriteLine("0 - Back");
 
-            switch (choice)
+            int choose = int.Parse(Console.ReadLine()!);
+
+            switch (choose)
             {
                 case 1:
-                    if (currentActiveId != null && ordersMap.ContainsKey(currentActiveId.Value))
+
+                    if (currentActiveId != null &&
+                        ordersMap.ContainsKey(currentActiveId.Value))
                     {
                         OrderActionsMenu(currentActiveId.Value);
                     }
                     else
                     {
-                        Console.WriteLine("No active session found. Please start a new order.");
-                        HandleNewOrder();
+                        Console.WriteLine("No active order");
                     }
+
                     break;
 
                 case 2:
@@ -57,219 +501,147 @@ class Program
                     break;
 
                 case 3:
-                    if (ordersMap.Count == 0) Console.WriteLine("No active orders in memory.");
-                    foreach (var entry in ordersMap)
+
+                    foreach (var item in ordersMap)
                     {
-                        Console.WriteLine($"Customer ID: {entry.Key}, Items: {entry.Value.Items?.Count ?? 0}, Total: {entry.Value.TotalPrice}");
+                        Console.WriteLine($"customer id : {item.Key}");
+                        Console.WriteLine(item.Value);
                     }
+
                     break;
             }
         }
-        catch (Exception ex) { Console.WriteLine($"Error: {ex.Message}"); }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
     }
 
     private static void HandleNewOrder()
     {
-        Console.Write("Enter Customer ID: ");
-        if (!int.TryParse(Console.ReadLine(), out int custId)) return;
-
-        var customer = s_bl.Customer.Read(custId);
-        bool isPreferred = false;
-
-        if (customer != null)
+        try
         {
-            Console.WriteLine($"Customer identified: {customer.Name}. Club status activated.");
-            isPreferred = true; 
+            Console.WriteLine("Enter customer id");
+            int customerId = int.Parse(Console.ReadLine()!);
+
+            var customer = s_bl.Customer.Read(customerId);
+
+            bool isPreferred = customer != null;
+
+            if (customer != null)
+            {
+                Console.WriteLine($"Hello {customer.Name}");
+            }
+            else
+            {
+                Console.WriteLine("Guest customer");
+            }
+
+            ordersMap[customerId] = new Order
+            {
+                IsPreferredCustomer = isPreferred,
+                Items = new List<ProductInOrder>()
+            };
+
+            currentActiveId = customerId;
+
+            OrderActionsMenu(customerId);
         }
-        else
+        catch (Exception ex)
         {
-            Console.WriteLine("Customer not found. Proceeding as guest (No club benefits).");
+            Console.WriteLine(ex.Message);
         }
-
-        ordersMap[custId] = new Order
-        {
-            IsPreferredCustomer = isPreferred,
-            Items = new List<ProductInOrder>()
-        };
-        currentActiveId = custId;
-
-        OrderActionsMenu(custId);
     }
 
-    private static void OrderActionsMenu(int custId)
+    private static void OrderActionsMenu(int customerId)
     {
-        Order activeOrder = ordersMap[custId];
-        bool inMenu = true;
+        Order order = ordersMap[customerId];
 
-        while (inMenu)
+        bool run = true;
+
+        while (run)
         {
-            Console.WriteLine($"\n--- Managing Order for ID: {custId} (Club: {activeOrder.IsPreferredCustomer}) ---");
-            Console.WriteLine("1-Add Product | 2-View Cart | 3-Complete Order (DoOrder) | 4-Clear/Cancel Cart | 0-Back to Management");
-            if (!int.TryParse(Console.ReadLine(), out int sub)) break;
+            Console.WriteLine();
+            Console.WriteLine("------ ORDER ACTIONS ------");
+            Console.WriteLine("1 - Add product");
+            Console.WriteLine("2 - Show cart");
+            Console.WriteLine("3 - Complete order");
+            Console.WriteLine("4 - Cancel order");
+            Console.WriteLine("0 - Back");
 
-            switch (sub)
+            int choose = int.Parse(Console.ReadLine()!);
+
+            switch (choose)
             {
                 case 1:
+
                     try
                     {
-                        Console.Write("Product ID: ");
-                        int pId = int.Parse(Console.ReadLine()!);
-                        Console.Write("Quantity: ");
-                        int q = int.Parse(Console.ReadLine()!);
+                        Console.WriteLine("Enter product id");
+                        int productId = int.Parse(Console.ReadLine()!);
 
-                        var sales = s_bl.Order.AddProductToOrder(activeOrder, pId, q);
-                        Console.WriteLine($"Added! \n{sales.Count} sales applied to this item.");
+                        Console.WriteLine("Enter quantity");
+                        int quantity = int.Parse(Console.ReadLine()!);
+
+                        var sales =
+                            s_bl.Order.AddProductToOrder(order, productId, quantity);
+
+                        Console.WriteLine($"{sales.Count} sales applied");
                     }
-                    catch (Exception ex) { Console.WriteLine($"Failed to add: {ex.Message}"); }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine(ex.Message);
+                    }
+
                     break;
 
                 case 2:
-                    Console.WriteLine(activeOrder);
+
+                    Console.WriteLine(order);
+
                     break;
 
                 case 3:
-                    s_bl.Order.DoOrder(activeOrder);
-                    ordersMap.Remove(custId);
-                    if (currentActiveId == custId) currentActiveId = null;
-                    Console.WriteLine("Order finalized. Inventory updated.");
-                    inMenu = false;
+
+                    try
+                    {
+                        s_bl.Order.DoOrder(order);
+
+                        Console.WriteLine("Order completed successfully");
+
+                        ordersMap.Remove(customerId);
+
+                        if (currentActiveId == customerId)
+                            currentActiveId = null;
+
+                        run = false;
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine(ex.Message);
+                    }
+
                     break;
 
                 case 4:
-                    ordersMap.Remove(custId);
-                    if (currentActiveId == custId) currentActiveId = null;
-                    Console.WriteLine("Cart cleared.");
-                    inMenu = false;
+
+                    ordersMap.Remove(customerId);
+
+                    if (currentActiveId == customerId)
+                        currentActiveId = null;
+
+                    Console.WriteLine("Order cancelled");
+
+                    run = false;
+
                     break;
 
                 case 0:
-                    inMenu = false;
+
+                    run = false;
+
                     break;
             }
         }
-    }
-
-    private static void CustomerMenu()
-    {
-        try
-        {
-            Console.WriteLine("\n--- Customer Menu ---");
-            Console.WriteLine("1-Add | 2-View | 3-Update | 4-Delete | 5-Show all");
-            int sub = int.Parse(Console.ReadLine()!);
-            switch (sub)
-            {
-                case 1:
-                    Customer newCustomer = new Customer();
-                    Console.Write("Enter Customer ID: ");
-                    newCustomer.Id = int.Parse(Console.ReadLine()!);
-                    Console.Write("Enter Full Name: ");
-                    newCustomer.Name = Console.ReadLine()!;
-
-                    Console.Write("Enter Address: ");
-                    newCustomer.Address = Console.ReadLine()!;
-
-                    Console.Write("Enter Phone Number: ");
-                    newCustomer.Phone = Console.ReadLine()!;
-
-                    s_bl.Customer.Create(newCustomer);
-                    Console.WriteLine("Customer created successfully!");
-                    break;
-                case 2:
-                    Console.Write("Enter ID: ");
-                    Console.WriteLine(s_bl.Customer.Read(int.Parse(Console.ReadLine()!)));
-                    break;
-                case 3:
-                    Console.Write("Enter ID to update: ");
-                    int idToUpdate = int.Parse(Console.ReadLine()!);
-                    var existing = s_bl.Customer.Read(idToUpdate);
-                    Console.WriteLine($"Current data: {existing}");
-                    Customer updatedCustomer = new Customer { Id = idToUpdate };
-
-                    Console.Write("Enter New Name: ");
-                    updatedCustomer.Name = Console.ReadLine()!;
-
-                    Console.Write("Enter New Address: ");
-                    updatedCustomer.Address = Console.ReadLine()!;
-
-                    Console.Write("Enter New Phone Number: ");
-                    updatedCustomer.Phone = Console.ReadLine()!;
-
-                    s_bl.Customer.Update(updatedCustomer);
-                    Console.WriteLine("Customer updated successfully!");
-                    break;
-                case 4:
-                    Console.Write("Enter ID to delete: ");
-                    s_bl.Customer.Delete(int.Parse(Console.ReadLine()!));
-                    break;
-                case 5:
-                    s_bl.Customer.ReadAll().ToList().ForEach(c => Console.WriteLine(c));
-                    break;
-            }
-        }
-        catch (Exception ex) { Console.WriteLine($"Error: {ex.Message}"); }
-    }
-
-    private static void ProductMenu()
-    {
-        try
-        {
-            Console.WriteLine("\n--- Product Menu ---");
-            Console.WriteLine("1-Add | 2-View | 5-Show All");
-            int sub = int.Parse(Console.ReadLine()!);
-            switch (sub)
-            {
-                case 1:
-                    Product newProduct = new Product();
-
-                    Console.Write("Enter Product Name: ");
-                    newProduct.Name = Console.ReadLine()!;
-
-                    Console.WriteLine("Select Category: 0 - Birthday, 1 - Holiday, 2 - General");
-                    Console.Write("Enter Category Number: ");
-                    newProduct.Category = (Category)int.Parse(Console.ReadLine()!);
-
-                    Console.Write("Enter Price: ");
-                    newProduct.Price = double.Parse(Console.ReadLine()!);
-
-                    Console.Write("Enter Quantity in Stock: ");
-                    newProduct.QuantityInStock = int.Parse(Console.ReadLine()!);
-
-                    s_bl.Product.Create(newProduct);
-                    Console.WriteLine("Product created successfully!");
-                    break;
-                case 2:
-                    Console.WriteLine(s_bl.Product.Read(int.Parse(Console.ReadLine()!)));
-                    break;
-                case 5:
-                    s_bl.Product.ReadAll().ToList().ForEach(p => Console.WriteLine(p));
-                    break;
-            }
-        }
-        catch (Exception ex) { Console.WriteLine($"Error: {ex.Message}"); }
-    }
-
-    private static void SaleMenu()
-    {
-        try
-        {
-            Console.WriteLine("\n--- Sale Menu ---");
-            Console.WriteLine("1-Add | 2-View | 3-Show All");
-            int sub = int.Parse(Console.ReadLine()!);
-            switch (sub)
-            {
-                case 1:
-                    Console.Write("Enter ID, Product ID, Count for Sale, Total Price: ");
-                    s_bl.Sale.Create(new Sale { Id = int.Parse(Console.ReadLine()!), IdProduct = int.Parse(Console.ReadLine()!), CountForSale = int.Parse(Console.ReadLine()!), TotalPrice = double.Parse(Console.ReadLine()!) });
-                    break;
-                case 2:
-                    Console.Write("Enter ID: ");
-                    Console.WriteLine(s_bl.Sale.Read(int.Parse(Console.ReadLine()!)));
-                    break;
-                case 3:
-                    s_bl.Sale.ReadAll().ToList().ForEach(s => Console.WriteLine(s));
-                    break;
-            }
-        }
-        catch (Exception ex) { Console.WriteLine($"Error: {ex.Message}"); }
     }
 }
