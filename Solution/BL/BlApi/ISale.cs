@@ -10,3 +10,5 @@ public interface ISale
     void Update(Sale sale);
     void Delete(int id);
 }
+
+

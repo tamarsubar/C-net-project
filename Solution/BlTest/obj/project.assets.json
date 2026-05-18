@@ -84,23 +84,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\058-329-2053\\.nuget\\packages\\": {},
+    "C:\\Users\\elishevakarbel\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\BlTest\\BlTest.csproj",
+      "projectUniqueName": "M:\\שנה ב\\C# .net\\C-net-project\\Solution\\BlTest\\BlTest.csproj",
       "projectName": "BlTest",
-      "projectPath": "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\BlTest\\BlTest.csproj",
-      "packagesPath": "C:\\Users\\058-329-2053\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\BlTest\\obj\\",
+      "projectPath": "M:\\שנה ב\\C# .net\\C-net-project\\Solution\\BlTest\\BlTest.csproj",
+      "packagesPath": "C:\\Users\\elishevakarbel\\.nuget\\packages\\",
+      "outputPath": "M:\\שנה ב\\C# .net\\C-net-project\\Solution\\BlTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\058-329-2053\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\elishevakarbel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -116,14 +116,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\BL\\BL.csproj": {
-              "projectPath": "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\BL\\BL.csproj"
+            "M:\\שנה ב\\C# .net\\C-net-project\\Solution\\BL\\BL.csproj": {
+              "projectPath": "M:\\שנה ב\\C# .net\\C-net-project\\Solution\\BL\\BL.csproj"
             },
-            "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\DalList\\DalList.csproj": {
-              "projectPath": "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\DalList\\DalList.csproj"
+            "M:\\שנה ב\\C# .net\\C-net-project\\Solution\\DalList\\DalList.csproj": {
+              "projectPath": "M:\\שנה ב\\C# .net\\C-net-project\\Solution\\DalList\\DalList.csproj"
             },
-            "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\DalXml\\DalXml.csproj": {
-              "projectPath": "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\DalXml\\DalXml.csproj"
+            "M:\\שנה ב\\C# .net\\C-net-project\\Solution\\DalXml\\DalXml.csproj": {
+              "projectPath": "M:\\שנה ב\\C# .net\\C-net-project\\Solution\\DalXml\\DalXml.csproj"
             }
           }
         }
@@ -137,8 +137,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "10.0.200"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -159,7 +158,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

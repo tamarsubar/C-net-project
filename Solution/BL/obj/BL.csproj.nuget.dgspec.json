@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\BL\\BL.csproj": {}
+    "M:\\שנה ב\\C# .net\\C-net-project\\Solution\\BL\\BL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\BL\\BL.csproj": {
+    "M:\\שנה ב\\C# .net\\C-net-project\\Solution\\BL\\BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\BL\\BL.csproj",
+        "projectUniqueName": "M:\\שנה ב\\C# .net\\C-net-project\\Solution\\BL\\BL.csproj",
         "projectName": "BL",
-        "projectPath": "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\BL\\BL.csproj",
-        "packagesPath": "C:\\Users\\058-329-2053\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\BL\\obj\\",
+        "projectPath": "M:\\שנה ב\\C# .net\\C-net-project\\Solution\\BL\\BL.csproj",
+        "packagesPath": "C:\\Users\\elishevakarbel\\.nuget\\packages\\",
+        "outputPath": "M:\\שנה ב\\C# .net\\C-net-project\\Solution\\BL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\058-329-2053\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\elishevakarbel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,11 +33,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\DalFacade\\DalFacade.csproj": {
-                "projectPath": "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\DalFacade\\DalFacade.csproj"
+              "M:\\שנה ב\\C# .net\\C-net-project\\Solution\\DalFacade\\DalFacade.csproj": {
+                "projectPath": "M:\\שנה ב\\C# .net\\C-net-project\\Solution\\DalFacade\\DalFacade.csproj"
               },
-              "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\DalList\\DalList.csproj": {
-                "projectPath": "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\DalList\\DalList.csproj"
+              "M:\\שנה ב\\C# .net\\C-net-project\\Solution\\DalList\\DalList.csproj": {
+                "projectPath": "M:\\שנה ב\\C# .net\\C-net-project\\Solution\\DalList\\DalList.csproj"
               }
             }
           }
@@ -51,8 +51,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "10.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -73,24 +72,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\DalFacade\\DalFacade.csproj": {
+    "M:\\שנה ב\\C# .net\\C-net-project\\Solution\\DalFacade\\DalFacade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\DalFacade\\DalFacade.csproj",
+        "projectUniqueName": "M:\\שנה ב\\C# .net\\C-net-project\\Solution\\DalFacade\\DalFacade.csproj",
         "projectName": "DalFacade",
-        "projectPath": "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\DalFacade\\DalFacade.csproj",
-        "packagesPath": "C:\\Users\\058-329-2053\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\DalFacade\\obj\\",
+        "projectPath": "M:\\שנה ב\\C# .net\\C-net-project\\Solution\\DalFacade\\DalFacade.csproj",
+        "packagesPath": "C:\\Users\\elishevakarbel\\.nuget\\packages\\",
+        "outputPath": "M:\\שנה ב\\C# .net\\C-net-project\\Solution\\DalFacade\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\058-329-2053\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\elishevakarbel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -117,8 +116,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "10.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -139,24 +137,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\DalList\\DalList.csproj": {
+    "M:\\שנה ב\\C# .net\\C-net-project\\Solution\\DalList\\DalList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\DalList\\DalList.csproj",
+        "projectUniqueName": "M:\\שנה ב\\C# .net\\C-net-project\\Solution\\DalList\\DalList.csproj",
         "projectName": "DalList",
-        "projectPath": "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\DalList\\DalList.csproj",
-        "packagesPath": "C:\\Users\\058-329-2053\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\DalList\\obj\\",
+        "projectPath": "M:\\שנה ב\\C# .net\\C-net-project\\Solution\\DalList\\DalList.csproj",
+        "packagesPath": "C:\\Users\\elishevakarbel\\.nuget\\packages\\",
+        "outputPath": "M:\\שנה ב\\C# .net\\C-net-project\\Solution\\DalList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\058-329-2053\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\elishevakarbel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -172,8 +170,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\DalFacade\\DalFacade.csproj": {
-                "projectPath": "C:\\Users\\058-329-2053\\תכנות\\שנה ב\\C#.NET\\C-net-project\\Solution\\DalFacade\\DalFacade.csproj"
+              "M:\\שנה ב\\C# .net\\C-net-project\\Solution\\DalFacade\\DalFacade.csproj": {
+                "projectPath": "M:\\שנה ב\\C# .net\\C-net-project\\Solution\\DalFacade\\DalFacade.csproj"
               }
             }
           }
@@ -187,8 +185,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "10.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -209,7 +206,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
